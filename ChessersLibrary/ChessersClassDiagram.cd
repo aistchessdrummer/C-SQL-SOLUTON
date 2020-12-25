@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ChessersLibrary.ChesserInfo">
+    <Position X="3.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAJAIgAIAAAhCEKACAAAAgAAAUAAAAACGAAAACAAAA=</HashCode>
+      <FileName>ChesserInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessersLibrary.SexInfo">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAABAEAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>SexInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessersLibrary.ZvanRazInfo">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAIAAAgAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ZvanRazInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessersLibrary.SexList">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>SexList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessersLibrary.ZvanRazList">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ZvanRazList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

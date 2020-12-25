@@ -1,0 +1,15 @@
+C:\Users\Aleks\source\repos\Chessers\ChessersForm\bin\Debug\ChessersForm.exe.config
+C:\Users\Aleks\source\repos\Chessers\ChessersForm\bin\Debug\ChessersForm.exe
+C:\Users\Aleks\source\repos\Chessers\ChessersForm\bin\Debug\ChessersForm.pdb
+C:\Users\Aleks\source\repos\Chessers\ChessersForm\bin\Debug\ChessersLibrary.dll
+C:\Users\Aleks\source\repos\Chessers\ChessersForm\bin\Debug\ChessersLibrary.pdb
+C:\Users\Aleks\source\repos\Chessers\ChessersForm\obj\Debug\ChessersForm.csprojAssemblyReference.cache
+C:\Users\Aleks\source\repos\Chessers\ChessersForm\obj\Debug\ChessersForm.Properties.Resources.resources
+C:\Users\Aleks\source\repos\Chessers\ChessersForm\obj\Debug\ChessersForm.csproj.GenerateResource.cache
+C:\Users\Aleks\source\repos\Chessers\ChessersForm\obj\Debug\ChessersForm.csproj.CoreCompileInputs.cache
+C:\Users\Aleks\source\repos\Chessers\ChessersForm\obj\Debug\ChessersForm.csproj.CopyComplete
+C:\Users\Aleks\source\repos\Chessers\ChessersForm\obj\Debug\ChessersForm.exe
+C:\Users\Aleks\source\repos\Chessers\ChessersForm\obj\Debug\ChessersForm.pdb
+C:\Users\Aleks\source\repos\Chessers\ChessersForm\obj\Debug\ChessersForm.ChessForm.resources
+C:\Users\Aleks\source\repos\Chessers\ChessersForm\obj\Debug\ChessersForm.ChessEditForm.resources
+C:\Users\Aleks\source\repos\Chessers\ChessersForm\bin\Debug\ChessersLibrary.dll.config

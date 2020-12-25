@@ -1,0 +1,10 @@
+C:\Users\Aleks\source\repos\Chessers\ChessersLibrary\bin\Debug\ChessersLibrary.dll
+C:\Users\Aleks\source\repos\Chessers\ChessersLibrary\bin\Debug\ChessersLibrary.pdb
+C:\Users\Aleks\source\repos\Chessers\ChessersLibrary\obj\Debug\ChessersLibrary.csprojAssemblyReference.cache
+C:\Users\Aleks\source\repos\Chessers\ChessersLibrary\obj\Debug\ChessersLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Aleks\source\repos\Chessers\ChessersLibrary\obj\Debug\ChessersLibrary.dll
+C:\Users\Aleks\source\repos\Chessers\ChessersLibrary\obj\Debug\ChessersLibrary.pdb
+C:\Users\Aleks\source\repos\Chessers\ChessersLibrary\bin\Debug\ChessersLibrary.dll.config
+C:\Users\Aleks\source\repos\Chessers\ChessersLibrary\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Aleks\source\repos\Chessers\ChessersLibrary\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Aleks\source\repos\Chessers\ChessersLibrary\obj\Debug\ChessersLibrary.csproj.CopyComplete
